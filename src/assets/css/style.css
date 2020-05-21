@@ -1,3 +1,11 @@
-#app {
+#app input {
+  width: 100%;
+}
+
+#app .middle {
+  margin: auto;
+}
+
+#app .text--middle {
   text-align: center;
 }
